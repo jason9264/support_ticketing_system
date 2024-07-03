@@ -1,0 +1,16 @@
+! CSC IT
+# Web,5
+# Classroom Tech,10
+* EBII 1025 Laptop display won't work,active
+The projector will not show my laptop's display in EBII 1025. Using the podium computer works fine. My laptop shows the extra display, but I only see a black screen on the classroom screen.
+* EBII 1010 Podium monitor won't turn on.,active
+The monitor for the podium computer in EBII won't turn on.
+* EBII 1025 Replace lights
+Lighting panel 5 in EBII 1025 will need to be replaced soon.
+* LMP 200 update Firefox
+The computers in LMP 200 will need Firefox to be updated over the summer.
+# Desktop,17
+* Dr. McLeod's computer won't charge.,active
+The laptop provided to me won't charge when I plug in the charger. The charger works for other laptops though.
+* Microphone not detected through docking station.,active
+My provided laptop won't detect my microphone when the mic is plugged into the docking station. It works well when I plug it directly into the laptop though.
