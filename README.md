@@ -1,4 +1,4 @@
-# Project2
+# Ticketing System
 
 ## Overview
 Project2 is a Java application designed to manage tickets within groups, providing functionalities for creating, editing, and prioritizing tickets across different categories.
