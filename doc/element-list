@@ -1,0 +1,5 @@
+edu.ncsu.csc216.wolf_tickets.model.group
+edu.ncsu.csc216.wolf_tickets.model.io
+edu.ncsu.csc216.wolf_tickets.model.tickets
+edu.ncsu.csc216.wolf_tickets.model.util
+edu.ncsu.csc216.wolf_tickets.view.gui
